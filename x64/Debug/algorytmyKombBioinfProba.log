@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\algorytmyKombBioinfProba\main.cpp(50,6): warning C4101: "nr_linii": lokalna zmienna, do której nie istnieje odwołanie
+E:\algorytmyKombBioinfProba\main.cpp(320,6): warning C4101: "nr_linii": lokalna zmienna, do której nie istnieje odwołanie
+  algorytmyKombBioinfProba.vcxproj -> E:\algorytmyKombBioinfProba\x64\Debug\algorytmyKombBioinfProba.exe
